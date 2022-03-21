@@ -11,15 +11,15 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Otro sitio realizado con WordPress</description>
-	<lastBuildDate>Mon, 07 Mar 2022 22:19:32 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Mar 2022 19:24:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
-		Comentario en ¡Hola, mundo! por Un comentarista de WordPress		</title>
+		Comentario en Teoría de los signos por Un comentarista de WordPress		</title>
 		<link>./../../2022/03/07/hola-mundo/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
